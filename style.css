@@ -1,0 +1,122 @@
+body{
+    text-align: center;
+}
+
+@font-face {
+    font-family: Breaking Bad;
+    src: url(IMG/BreakingBad.ttf) format(truetype); 
+}
+
+#imgFondo{
+    background-image: url("img/fondo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+.letrablanca{
+    color:white;
+    font-weight: bold;
+}
+
+.letraformulario{
+    color:black;
+    font-weight: bold;
+}
+
+#imgPoster{
+    width: 700px;
+    height: 300px;
+    border-radius: 22px;
+    border: 5px solid;
+    border-color:brown;
+
+}
+
+#imgLogo{
+    width: 200px;
+    height: 200px;
+}
+
+#colorFondoTabla{
+    background-color: #0c3e11;
+}
+
+table{
+    text-align:center;  
+    background-color: rgb(43, 44, 36);
+    color: rgb(43, 44, 36);
+    border-color:rgb(43, 44, 36); 
+    font-weight:bold;
+    border: 3px solid;
+    margin: auto;
+    font-size: 15px;
+
+tr,td{
+    width: 70px;
+    height: 70px;
+    border: 3px solid;
+
+}
+img{
+    width: 60px;
+    height: 60px;
+}
+
+.imagenrarita{
+    width: 70px;
+    height: 150px;
+    border: 1px;
+}
+
+/*Colores tabla y tamaños*/
+.verde{
+    background-color:rgb(184, 218, 35);
+    color: rgb(43, 44, 36);
+
+}
+.negro{
+    background-color:rgb(43, 44, 36);
+    color: rgb(43, 44, 36);
+}
+.morado{
+    background-color:rgb(171, 143, 204);
+    color: rgb(43, 44, 36);
+}
+.verdeclaro{
+    background-color:rgb(214, 232, 122);
+    color: rgb(43, 44, 36);
+    
+}
+.verdecin{
+    background-color:rgb(238, 246, 195);
+    color: rgb(43, 44, 36);
+    
+}
+.verdesombra{
+    background-color:rgb(137, 163, 27);
+    color: rgb(43, 44, 36);
+}
+.verdesombra2{
+    background-color:rgb(99, 113, 34);
+    color: rgb(43, 44, 36);
+}
+.verdearriba{
+    background-color:rgb(196, 225, 75);
+    color: rgb(43, 44, 36);
+}
+.verdeturquesa{
+    background-color:rgb(187, 195, 154);
+    color: rgb(43, 44, 36);
+}
+.verdederecha{
+    background-color:rgb(129, 141, 75);
+    color: rgb(43, 44, 36);
+}
+.verdeabajo{
+    background-color:rgb(195, 197, 42);
+    color: rgb(43, 44, 36);  
+}
+.tamaño2{
+    font-size:10px;
+
+}
+}
